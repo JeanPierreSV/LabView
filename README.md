@@ -1,2 +1,2 @@
 # LabView
-Descripción temporal
+Descripción temporal de LabView
